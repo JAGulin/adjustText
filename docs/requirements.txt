@@ -3,3 +3,5 @@ ipykernel
 nbsphinx
 sphinx_rtd_theme
 mock
+bioframe
+cartopy
