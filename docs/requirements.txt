@@ -2,3 +2,4 @@ sphinx>=6,<7
 ipykernel
 nbsphinx
 sphinx_rtd_theme
+mock
